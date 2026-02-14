@@ -1,0 +1,1 @@
+This project is a Python-based Data Cleaning and Preprocessing Tool developed using Pandas. It automates key preprocessing steps such as handling missing values, removing duplicates, and detecting outliers to improve dataset quality before machine learning model training.
